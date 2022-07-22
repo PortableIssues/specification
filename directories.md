@@ -8,12 +8,12 @@ Within this directory there are up to three subdirectories: ```issues```, ```pul
 
 ### issues
 
-Here are the issue files placed.
+Here are the issue files placed. The files can be placed within one level of subdirectories with arbitrary names. The subdirectory names should not be considered meangingful. If subdirectories are used, no file may be placed directly within this directory.
 
 #### pull_requests
 
-Here are the pull request files placed.
+Here are the pull request files placed. The files can be placed within one level of subdirectories with arbitrary names. The subdirectory names should not be considered meangingful. If subdirectories are used, no file may be placed directly within this directory.
 
 ### users
 
-Here are the user files placed.
+Here are the user files placed. The files can be placed within one level of subdirectories with arbitrary names. The subdirectory names should not be considered meangingful. If subdirectories are used, no file may be placed directly within this directory.
